@@ -7,6 +7,8 @@ I'm a third year student in the South East Technological University (🇮🇪) s
 <p align="center">
     <a href="mailto:robwalsh564@gmail.com">
      <img alt="Email" src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
+    <a href="https://linkedin.com/in/robert-walshh">
+     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
     <a href="https://github.com/robert-walshh?tab=followers">
      <img alt="GitHub Followers" src="https://img.shields.io/github/followers/robert-walshh?style=for-the-badge&logo=github&color=FFFFFF"/></a>
      <img alt="GitHub Stars" src="https://img.shields.io/github/stars/robert-walshh?style=for-the-badge&label=%E2%AD%90%EF%B8%8F%20Stars&color=FFFFFF"/></a>
